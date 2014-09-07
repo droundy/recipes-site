@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -ev
+
+# Make sure we can run git add from out of tree:
+export GIT_DIR=`pwd`/.git
+export GIT_INDEX_FILE=`pwd`/$GIT_INDEX_FILE
+export AM_RUNNING_PRECOMMIT=yes
+
+# Create a clean temp directory for running tests:
+TEMPDIR=`mktemp -d -t testing-XXXXXXXXX`
+git checkout-index --prefix=$TEMPDIR/ -af
+cd $TEMPDIR
+
+/usr/bin/time -f '%E' -o /tmp/time-$USER.txt scons --cache-disable
+echo Tests successful, took `cat /tmp/time-$USER.txt`
+
+cd /tmp
+rm -rf $TEMPDIR
