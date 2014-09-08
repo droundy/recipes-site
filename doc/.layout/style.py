@@ -125,7 +125,7 @@ article {
         counter-reset: li;
         list-style: none;
         padding: 0;
-        margin-bottom: 4em;
+        margin-bottom: .5em;
     }
     ol ol{
         margin: 0 0 0 2em;
