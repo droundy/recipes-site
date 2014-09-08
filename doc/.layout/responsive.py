@@ -225,15 +225,8 @@ def indent(str):
 
 def total_css(container, usercss):
     css = """
-@input 'normalize.css'
-html {
-    padding: 0;
-    margin: 0;
-}
-body {
-    padding: 0;
-    margin: 0;
-}
+@import "doc/.layout/normalize.scss";
+
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
