@@ -43,3 +43,43 @@ Here will be recipes.
 Blend together solid ingredients coarsely.  Add 1/2 cup oil and blend
 til smooth.  Season with salt and pepper.  Add remaining oil and blend
 when serving.
+
+## Chicken with provencal spices
+
+## Mussel and potato salad
+
+- 1 lb. mussels
+
+- 1/2 lb. potatos, cut into 1/2 inch cubes
+
+- 1 cup wine or water
+
+- 1 cup chopped red onion or shallots
+
+- 1 cup olive oil
+
+- 1/2 cup balsamic vinegar
+
+- salt and pepper
+
+- 1 cup chopped parsley, dill, or chives
+
+Heat mussels and potatoes in wine, on high in covered Calphalon
+skillet.  When steam rises from the top, shake it a few times and turn
+the heat to medium.  Keep cooking until all the mussels open, checking
+after $5 + 2n$ minutes.
+
+Substituting shrimp...
+
+## Pork and sauerkraut
+
+## Chicken in a bag
+
+## Spinach with artichoke casserole
+
+## Sushi
+
+## Tuna casserole
+
+## Pizza
+
