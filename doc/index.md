@@ -28,21 +28,21 @@ Here will be recipes.
 
 ## Pesto
 
-- 2 cups packed basil leaves
+- 1 cup packed basil leaves
 
-- 2 cloves garlic
+- 1 clove garlic
 
-- 1/4 cup pine nuts
+- 2 tbsp pine nuts
 
-- 2/3 cup olive oil
+- 1/3 cup olive oil
 
 - salt and pepper
 
-- 1/2 cup freshly grated Pecorino or Parmesan
+- 1/4 cup freshly grated Pecorino or Parmesan
 
-Blend together solid ingredients coarsely.  Add 1/2 cup oil and blend
-til smooth.  Season with salt and pepper.  Add remaining oil and blend
-when serving.
+Blend together solid ingredients coarsely in food processor.  Add 1/4
+cup oil and blend til smooth.  Season with salt and pepper.  Add
+remaining oil and blend when serving.
 
 ## Chicken with provencal spices
 
