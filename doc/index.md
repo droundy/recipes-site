@@ -83,3 +83,40 @@ Substituting shrimp...
 
 ## Pizza
 
+## Vegetable chowder
+
+- 3 smallish carrots
+
+- 1 medium potato
+
+- 1 package mushrooms (how big?)
+
+- 3 cups water
+
+- 3 tablespoons soy sauce
+
+- 1 bell pepper
+
+- Some chives
+
+- 1 onion
+
+- 1 head broccoli
+
+- 1 1/2 cups milk
+
+- 1/2 cup white flour
+
+- 1 cup cheddar cheese
+
+#### Instructions:
+
+1. Chop or food-process vegetables and boil in water with soy sauce.
+
+2. Mix flour and milk, then add gradually to soup, and let boil for
+   two minutes.
+
+3. Gradually add cheese and let it melt and make everything tasty.
+
+4. Ideally, serve in a sourdough bowl.
+
