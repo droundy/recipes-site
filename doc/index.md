@@ -120,3 +120,15 @@ Substituting shrimp...
 
 4. Ideally, serve in a sourdough bowl.
 
+## Quiche crust
+
+- 1 cup whole wheat flour
+
+- 1/2 teaspoon salt
+
+- 1/4 cup olive oil
+
+- 1/4 cup ice water
+
+Mix flour and salt.  Beat oil and cold water to thicken.  Mix
+everything together, and press into glass pie pan.
