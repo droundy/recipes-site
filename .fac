@@ -1,0 +1,8 @@
+| python2 mkdown.py
+> index.html
+
+| sass style.scss style.css
+> style.css
+C .sass-cache
+
+# scp * science.oregonstate.edu:public_html/recipes/

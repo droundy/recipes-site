@@ -9,11 +9,9 @@ build
 *.test
 *.log
 *.failed
-
-messy-core
-*.html
-*.svg
-doc/.layout/style.scss
-doc/.layout/style.css
-doc/.layout/test.css
+*~
+*.tum
+style.css
+*.map
 .sass-cache
+*.html

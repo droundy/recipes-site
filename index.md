@@ -1,6 +1,4 @@
-# Welcome!
-
-Here will be recipes.
+# David's recipe page!
 
 ## Sweet and sour sauce
 
@@ -132,3 +130,19 @@ Substituting shrimp...
 
 Mix flour and salt.  Beat oil and cold water to thicken.  Mix
 everything together, and press into glass pie pan.
+
+## Tortillas
+
+- 2 cups bread flour
+
+- 1/2 teaspoon salt
+
+- 3 tablespoons olive oil
+
+- 3/4 cup water
+
+Combine the dry ingredients.  Add the oil and water and mix.  Knead
+10-12 times until dough is smooth.  Let rest 10 minutes, and then
+divide into 8 portions.  Roll each portion flat and round.  Cook in
+a large nonstick skillet on medium heat (7 or 8), for one minute on
+each side, or until slightly browned.

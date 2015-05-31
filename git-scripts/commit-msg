@@ -1,5 +1,0 @@
-#!/bin/sh
-
-set -ev
-
-echo Tested on `hostname`.  Took `cat /tmp/time-$USER.txt`. >> "$1"
