@@ -146,3 +146,14 @@ Combine the dry ingredients.  Add the oil and water and mix.  Knead
 divide into 8 portions.  Roll each portion flat and round.  Cook in
 a large nonstick skillet on medium heat (7 or 8), for one minute on
 each side, or until slightly browned.
+
+## Mustard sauce
+
+- 1 onion
+
+- 1/2 cup heavy cream
+
+- 1 tablespoon dijon mustard
+
+Dice and saute the onion in butter.  Mix with cream and mustard.
+Serve on meat of any sort.
