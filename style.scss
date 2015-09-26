@@ -96,6 +96,7 @@ main {
     main {
         max-width: 60em;
         ul {
+            margin-top: -3em;   /* shift up to make things more compact */
             min-width: 20em;
             float: right;
         }
