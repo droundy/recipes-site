@@ -22,15 +22,12 @@ def mkdown(mdfile):
     titlere = re.compile(r"^\s*#\s*([^\n]*)(.*)", re.DOTALL)
     title = titlere.findall(mkstr)
     if len(title) == 0:
-        title = "Fac"
+        title = "Recipes"
     else:
         mkstr = title[0][1]
         title = mmdd.markdown(title[0][0])
         title = title[3:len(title)-4]
-    if title[:4] == "Fac ":
-        pagetitle = title[4:]
-    else:
-        pagetitle = title
+    pagetitle = title
 
     template = string.Template(templatestr)
 

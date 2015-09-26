@@ -157,3 +157,38 @@ each side, or until slightly browned.
 
 Dice and saute the onion in butter.  Mix with cream and mustard.
 Serve on meat of any sort.
+
+## Lentil soup
+
+- 2 cups lentils
+
+- 1/4 cup olive oil
+
+- 2 carrots, diced
+
+- 2 stalks celery, chopped
+
+- 2 cloves garlic, minced
+
+- 1 teaspoon oregano
+
+- 1 teaspoon basil
+
+- 1 bay leaf
+
+- 1/2 cup spinach, sliced
+
+- 8 cups water
+
+- 1 14.5 oz. can crushed tomatoes
+
+- 2 tablespoons vinegar
+
+- 1/2 teaspoon salt
+
+- 1/2 teaspoon black pepper
+
+Saute onions, carrots and celery in the oil until onions are
+transparent.  Add spices and garlic and cook for two more minutes.
+Add lentils, water, and tomatoes.  Simmer 1 or more hours.  At the
+penultimate minute, add spinach, salt, peper, and vinegar.
