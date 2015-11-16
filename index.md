@@ -164,6 +164,8 @@ Serve on meat of any sort.
 
 - 1/4 cup olive oil
 
+- 1 or 2 large onions, diced
+
 - 2 carrots, diced
 
 - 2 stalks celery, chopped
