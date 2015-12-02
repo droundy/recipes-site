@@ -1,6 +1,7 @@
 
 import re, string, os, glob
 import markdown as mmdd
+from markdown.extensions.toc import TocExtension
 
 import xml.etree.ElementTree as ET
 
@@ -37,7 +38,8 @@ def mkdown(mdfile):
             pagetitle = pagetitle,
             #content = mmdd.markdown(mkstr, extensions=['mathjax']),
             #sidebar = mmdd.markdown(sidebar, extensions=['mathjax'])))
-            content = mmdd.markdown(mkstr, extensions=['def_list']),
+            content = mmdd.markdown(mkstr, extensions=['def_list',
+                                                       TocExtension()]),
             sidebar = mmdd.markdown(sidebar, extensions=['def_list'])),
                             '<li><a href="'+mdfile[4:-3],
                             '<li><a class="current" href="'+mdfile[4:-3])

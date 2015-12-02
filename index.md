@@ -1,5 +1,7 @@
 # David's recipe page!
 
+[TOC]
+
 ## Sweet and sour sauce
 
 - 1/4 cup ketchup
@@ -194,3 +196,45 @@ Saute onions, carrots and celery in the oil until onions are
 transparent.  Add spices and garlic and cook for two more minutes.
 Add lentils, water, and tomatoes.  Simmer 1 or more hours.  At the
 penultimate minute, add spinach, salt, peper, and vinegar.
+
+## Hot and sour soup
+
+- 4 cups water or broth
+
+- 4 ounces sliced mushrooms
+
+- bamboo shoots or celery, thinly sliced
+
+- 8 ounces firm tofu, sliced into 1/4 inch strips
+
+- (optionally 1 carrot, diced)
+
+- (optionally 1 onion, diced)
+
+- 2 cloves garlic, crushed
+
+- 1-2 tablespoons ginger, grated
+
+- 1 tablespoon balsamic vinegar
+
+- 3 tablespoons rice (or red wine, or apple cider) vinegar
+
+- 1 heaping tablespoon of sriracha sauce
+
+- 4 tablespoons soy sauce (less if broth is used)
+
+- 2 tablespoons molasses
+
+- 1/4 cup white flour, mixed with 1/2 cup cold water (alternatively 2
+  tablespoons corn starch in 2 tablespoons cold water)
+
+- 2 eggs, beaten
+
+- 1 teaspoon black or white pepper
+
+- 4 green onions, sliced (technically optional)
+
+Put everything before the flour into a pot and boil for 5 or more
+minutes.  Add the flour and water mixture, stirring carefully and boil
+for 2 or more minutes, until it thickens.  Add the pepper and green
+onions, and enjoy!
