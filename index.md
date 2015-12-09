@@ -238,3 +238,24 @@ Put everything before the flour into a pot and boil for 5 or more
 minutes.  Add the flour and water mixture, stirring carefully and boil
 for 2 or more minutes, until it thickens.  Add the pepper and green
 onions, and enjoy!
+
+## Chimichurri
+
+- 1 cup Italian parsley, packed
+
+- 1/4 cup fresh cilantro, packed
+
+- 1/2 cup olive oil
+
+- 1/3 cup red wine vinegar
+
+- 2 garlic cloves, peeled
+
+- 1 teaspoon pepper (black or crushed red)
+
+- 1/2 teaspoon ras el hamout (or cumin)
+
+- 1/2 teaspoon salt
+
+Blend everything together in the blender.  What could be easier? Use
+as marinade for meat, and as a sauce on meat (uncooked).
