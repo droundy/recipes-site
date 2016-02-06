@@ -81,6 +81,26 @@ Substituting shrimp...
 
 ## Tuna casserole
 
+- 1 large can of tuna
+
+- 8 ounces of noodles
+
+- 1 1/2 cups sour cream
+
+- 3/4 cup milk
+
+- 1 can sliced mushrooms or olives
+
+- 1 1/2 t. salt
+
+- 1/4 t. pepper
+
+- 4 T melted butter
+
+- 1/2 cup parmesan cheese
+
+- 2 slices cubed toast
+
 ## Pizza
 
 ## Vegetable chowder
