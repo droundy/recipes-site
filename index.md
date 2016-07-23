@@ -166,10 +166,10 @@ gives a nice thick crust!
 
 - 2 cups (maybe) frozen spinach
 
-Thaw the spinach and let it drip dry in the colander.  Bake the crust
-for 8 or so minutes.  Mix together eggs, milk and parmesan cheese. Put
-the spinach into the pan, then the cheddar cheese, then the egg
-mixture.
+Preheat the oven to 350 degrees.  Thaw the spinach and let it drip dry
+in the colander.  Bake the crust for 8 or so minutes.  Mix together
+eggs, milk and parmesan cheese. Put the spinach into the pan, then the
+cheddar cheese, then the egg mixture.  Bake for about 45 minutes.
 
 ## Tortillas
 
