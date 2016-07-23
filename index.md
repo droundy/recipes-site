@@ -151,7 +151,25 @@ Substituting shrimp...
 - 1/4 cup ice water
 
 Mix flour and salt.  Beat oil and cold water to thicken.  Mix
-everything together, and press into glass pie pan.
+everything together, and press into glass pie pan.  A double recipe
+gives a nice thick crust!
+
+## Quiche
+
+- 4 eggs
+
+- 1/3 cup grated parmesan cheese
+
+- 1 cup milk
+
+- 1/2 cup grated cheddar cheese
+
+- 2 cups (maybe) frozen spinach
+
+Thaw the spinach and let it drip dry in the colander.  Bake the crust
+for 8 or so minutes.  Mix together eggs, milk and parmesan cheese. Put
+the spinach into the pan, then the cheddar cheese, then the egg
+mixture.
 
 ## Tortillas
 
