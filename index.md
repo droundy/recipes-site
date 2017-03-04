@@ -312,4 +312,7 @@ as marinade for meat, and as a sauce on meat (uncooked).
 
 - 1/2 cup yogurt
 
-- 1/2 cup dried blueberries
+- 1/2 cup dried blueberries or 1 cup frozen blueberries
+
+First get out the blueberries so they can start thawing.  Mix dry
+ingredients, mix wet ingredients and add to dry.  Make pancakes.
