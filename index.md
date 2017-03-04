@@ -297,3 +297,19 @@ onions, and enjoy!
 
 Blend everything together in the blender.  What could be easier? Use
 as marinade for meat, and as a sauce on meat (uncooked).
+
+## Blueberry pancakes
+
+- 1/2 teaspoon baking soda
+
+- 1 teaspoon baking powder
+
+- 1 cup whole wheat pastry flour
+
+- 1 egg
+
+- 1 cup milk
+
+- 1/2 cup yogurt
+
+- 1/2 cup dried blueberries
