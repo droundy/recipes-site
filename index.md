@@ -316,3 +316,21 @@ as marinade for meat, and as a sauce on meat (uncooked).
 
 First get out the blueberries so they can start thawing.  Mix dry
 ingredients, mix wet ingredients and add to dry.  Make pancakes.
+
+## Crackers
+
+- 3 cups flour
+
+- 2 tsp sugar
+
+- 2 tsp salt
+
+- 4 Tbsp olive oil
+
+- 1 cup water
+
+Preheat the oven to 450 degrees.  Mix dry ingredients then add
+liquids, making a soft sticky dough (more water if needed).  Roll thin
+1/2 the dough.  At this point you could add topping after wetting the
+dough.  Use pizza cutter to cut into strips, and transfer these to a
+cookie sheet.  Prick each with a fork.  Bake 12-15 minutes.
