@@ -334,3 +334,20 @@ liquids, making a soft sticky dough (more water if needed).  Roll thin
 1/2 the dough.  At this point you could add topping after wetting the
 dough.  Use pizza cutter to cut into strips, and transfer these to a
 cookie sheet.  Prick each with a fork.  Bake 12-15 minutes.
+
+## Crepes
+
+- 2 cups flour
+
+- 4 eggs
+
+- 1 cup milk
+
+- 1 cup water
+
+- 1/2 tsp salt
+
+- 4 Tbsp melted butter
+
+Mix the flour and eggs, then gradually add milk and water.  At the end
+add salt and butter and beat until smooth.
