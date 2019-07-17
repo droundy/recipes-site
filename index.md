@@ -337,17 +337,17 @@ cookie sheet.  Prick each with a fork.  Bake 12-15 minutes.
 
 ## Crepes
 
-- 2 cups flour
+- 2 cups whole wheat flour
 
 - 4 eggs
 
-- 1 cup milk
+- 1 1/4 cup milk
 
 - 1 cup water
 
 - 1/2 tsp salt
 
-- 4 Tbsp melted butter
+- 1/4 cup canola oil
 
 Mix the flour and eggs, then gradually add milk and water.  At the end
 add salt and butter and beat until smooth.  Set stove to 7 (assuming
