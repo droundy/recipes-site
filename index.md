@@ -335,6 +335,24 @@ liquids, making a soft sticky dough (more water if needed).  Roll thin
 dough.  Use pizza cutter to cut into strips, and transfer these to a
 cookie sheet.  Prick each with a fork.  Bake 12-15 minutes.
 
+## Snakes
+
+- 1.5 cups whole wheat flour
+
+- 1/4 cup flax meal
+
+- 1 tsp sugar
+
+- 1 tsp salt
+
+- 2 Tbsp olive oil
+
+- 1/2 cup water
+
+Preheat the oven to 450 degrees.  Mix dry ingredients then add
+liquids, making a very soft dough.  Roll this dough into snakes
+between your hands.  Bake 12-15 minutes.
+
 ## Crepes
 
 - 2 cups whole wheat flour
