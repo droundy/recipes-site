@@ -2,4 +2,4 @@
 
 set -ev
 
-scp * science.oregonstate.edu:public_html/recipes/
+scp * shell.science.oregonstate.edu:public_html/recipes/
