@@ -368,5 +368,5 @@ between your hands.  Bake 12-15 minutes.
 - 1/4 cup canola oil
 
 Mix the flour and eggs, then gradually add milk and water.  At the end
-add salt and butter and beat until smooth.  Set stove to 7 (assuming
-it is ours) and pour in 1/3 cup of batter per crepe.
+add salt and butter and beat until smooth.  Set stove to 5 (on our new
+stove) and pour in 1/3 cup of batter per crepe.
