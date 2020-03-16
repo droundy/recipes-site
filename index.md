@@ -370,3 +370,19 @@ between your hands.  Bake 12-15 minutes.
 Mix the flour and eggs, then gradually add milk and water.  At the end
 add salt and butter and beat until smooth.  Set stove to 5 (on our new
 stove) and pour in 1/3 cup of batter per crepe.
+
+## Crepes sans milk
+
+- 2 cups whole wheat flour
+
+- 6 eggs
+
+- 2 cups water
+
+- 1/2 tsp salt
+
+- 1/3 cup canola oil
+
+Mix the flour and eggs, then gradually add water.  At the end
+add salt and butter and beat until smooth.  Set stove to 5 (on our new
+stove) and pour in 1/3 cup of batter per crepe.
