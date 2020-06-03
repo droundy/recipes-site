@@ -33,14 +33,14 @@ def mkdown(mdfile):
     template = string.Template(templatestr)
 
     f = open(htfile, 'w')
-    myhtml = string.replace(template.safe_substitute(
+    myhtml = template.safe_substitute(
             title = title,
             pagetitle = pagetitle,
             #content = mmdd.markdown(mkstr, extensions=['mathjax']),
             #sidebar = mmdd.markdown(sidebar, extensions=['mathjax'])))
             content = mmdd.markdown(mkstr, extensions=['def_list',
                                                        TocExtension()]),
-            sidebar = mmdd.markdown(sidebar, extensions=['def_list'])),
+            sidebar = mmdd.markdown(sidebar, extensions=['def_list'])).replace(
                             '<li><a href="'+mdfile[4:-3],
                             '<li><a class="current" href="'+mdfile[4:-3])
 
@@ -61,7 +61,7 @@ def mkdown(mdfile):
         #f.write('XXX '+ET.tostring(main, encoding='utf-8', method='html')+'\n')
         #etree.remove(main)
 
-    f.write(ET.tostring(etree, encoding='utf-8', method='html'))
+    f.write(ET.tostring(etree, encoding='unicode', method='html'))
 
     #f.write(myhtml)
     f.close()

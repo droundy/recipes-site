@@ -386,3 +386,42 @@ stove) and pour in 1/3 cup of batter per crepe.
 Mix the flour and eggs, then gradually add water.  At the end
 add salt and butter and beat until smooth.  Set stove to 4 (on our new
 stove) and pour in 1/3 cup of batter per crepe.
+
+## Strawberry shortcake
+
+**Next time I make this, try a smaller batch and modify the recipe.**
+
+- 2 pints strawberries
+
+- 1/2 cup sugar
+
+Slice up the strawberries, then mash 1/4 of them with a fork.  Mix
+them all together with the 1/2 cup of sugar.  Let sit covered to get
+extra tasty.
+
+- 4 cups flour
+
+- 3 T sugar
+
+- 1/4 tsp salt
+
+- 5 tsp baking powder
+
+- 1 1/4 cups butter
+
+- 1 pint heavy whipping cream
+
+Preheat the oven to 450.  Mix the dry ingredients.  Mix in 3/4 cup of
+softened butter.  Then add 1 1/4 cups cream and mix up.  Knead for
+about a minute, then roll out to about 1/2 inch thickness, and cut
+into an even number of rounds with a wide mug.  Put on a buttered
+sheet, then brush some melted butter on the top of each round.  Bake
+for 10-15 minutes or until golden brown.
+
+- 1/8 tsp vanilla extract
+
+Beat the remaining cream in a big mixing bowl until it thickens.  Then
+add some vanilla and beat again just until thick.
+
+Put some berries on top of each round, then put another on top of
+that, and top with more berries and whipped cream.
