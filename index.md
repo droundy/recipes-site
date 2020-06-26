@@ -425,3 +425,35 @@ add some vanilla and beat again just until thick.
 
 Put some berries on top of each round, then put another on top of
 that, and top with more berries and whipped cream.
+
+## blackened chicken and avocado salad
+
+### chicken
+- 2 boneless skinless chicken thighs
+- 1/2 tsp paprika
+- 1/2 tsp garlic powder
+- 1/2 tsp chili powder
+- 1/2 tsp cumin
+- 1 tablespoon olive oil
+
+### salad
+- 3 cups chopped romaine lettuce
+- 2 avocados
+- 1 cup cherry tomatoes halved
+- 1 small onion chopped
+- 1 tablespoon olive oil
+- 1 tablespoon chopped cilantro
+- parmesan shavings
+
+### rice
+- 1 cup brown rice
+
+In a small bowl mix together the paprika garlic powder, chili powder, cumin, and olive oil.
+Coat the chicken with the marinade and cook on medium low heat in a skillet. This should
+take about fifteen minutes.
+
+Put the salad ingredients into a large bowl. Coat with olive oil.
+
+Slice the chicken thinly and put on top of the salad to serve.
+Shave some parmesan cheese on top.
+Serve on top of brown rice.
