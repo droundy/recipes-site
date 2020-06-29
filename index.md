@@ -426,7 +426,7 @@ add some vanilla and beat again just until thick.
 Put some berries on top of each round, then put another on top of
 that, and top with more berries and whipped cream.
 
-## blackened chicken and avocado salad
+## Blackened chicken and avocado salad
 
 ### chicken
 - 2 boneless skinless chicken thighs
@@ -457,3 +457,21 @@ Put the salad ingredients into a large bowl. Coat with olive oil.
 Slice the chicken thinly and put on top of the salad to serve.
 Shave some parmesan cheese on top.
 Serve on top of brown rice.
+
+## Pasta with peas
+
+- 1 lb frozen peas
+- 1/2 lb short pasta
+- 1/2 cup grated parmesan cheese
+- 2 cups water
+- 1 small onion diced
+- 1 T olive oil
+- 1 tsp salt
+
+Warm the olive oil in a large pot over medium heat. Add
+the diced onion and cook until the onion is translucent,
+about one minute.  Add the peas and cook 1 minute.
+Add the water and bring back to a boil with the pasta.
+Cook for ten minutes until the pastor is ready.
+Turn off the heat and stir in the parmesan cheese
+until melted.
