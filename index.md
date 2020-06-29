@@ -475,3 +475,46 @@ Add the water and bring back to a boil with the pasta.
 Cook for ten minutes until the pastor is ready.
 Turn off the heat and stir in the parmesan cheese
 until melted.
+
+## Equal ingredients
+
+- 2 cups whole wheat flour
+- 1/4 cup oil
+- 1/2 cup milk
+- 1/2 tsp salt
+- 4 eggs
+
+### crepes
+
+ - 1 3/4 cup water
+
+Mix the flour and eggs, then gradually add milk and water. At the end add salt and butter and beat until smooth. Set stove to 4 (on our new stove) and pour in 1/3 cup of batter per crepe.
+
+### quiche
+
+#### crust
+
+- 3/4 cup ice water
+
+Mix flour and salt. Beat oil and cold water to thicken.
+Mix these things together, and press into a glass pie
+pan.
+
+#### filling
+
+- 1/2 cup grated cheddar cheese
+- 1/3 cup grated parmesan cheese
+- 2 cups frozen spinach, thawed
+
+Preheat the oven to 350 degrees. Thaw the spinach and let it drip dry in the colander. Bake the crust for 8 or so minutes first. Mix together eggs, milk and parmesan cheese. Put the spinach into the pan, then the cheddar cheese,
+then the egg mixture.  Bake for about 45 minutes.
+
+### breakfast burritos
+
+### crackers
+
+### pasta?
+
+### biscuits?
+
+### pancakes?
