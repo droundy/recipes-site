@@ -428,6 +428,9 @@ that, and top with more berries and whipped cream.
 
 ## Blackened chicken and avocado salad
 
+### rice
+- 1 cup brown rice
+
 ### chicken
 - 2 boneless skinless chicken thighs
 - 1/2 tsp paprika
@@ -444,9 +447,6 @@ that, and top with more berries and whipped cream.
 - 1 tablespoon olive oil
 - 1 tablespoon chopped cilantro
 - parmesan shavings
-
-### rice
-- 1 cup brown rice
 
 In a small bowl mix together the paprika garlic powder, chili powder, cumin, and olive oil.
 Coat the chicken with the marinade and cook on medium low heat in a skillet. This should
