@@ -476,6 +476,36 @@ Cook for ten minutes until the pastor is ready.
 Turn off the heat and stir in the parmesan cheese
 until melted.
 
+## Breaded fish
+
+- 1/2 cup panko breadcrumbs
+- 1 T parsley, finely chopped
+- 1/3 cup grated parmesan cheese
+- 1 clove garlic, minced
+- 1 T olive oil
+
+Mix it all together.
+
+- 2 firm tilapia (or other) fish fillets, about 10 oz. total
+- 2 T dijon mustard
+- 1/2 T olive oil
+
+Preheat oven to broil. Put oil in skillet and heat it up on high heat. Coat one
+side of fish with mustard, then dip in breading. Put on the skillet. Then put
+the skillet in the oven for 5-6 minutes until browned.
+
+## Creamed cauliflower
+
+- 2 lb cauliflower
+- 2 garlic cloves
+- 2 T olive oil (or butter)
+- 1/4 cup parmesan cheese
+- 1/4 cup plain yogurt
+  
+Cut up the cauliflower and boil with garlic for 10 minutes. Scoop out a mug of
+cooking water for later. Put ingredients into blender. Use water from mug to
+enable it to blend.
+
 ## Equal ingredients
 
 - 2 cups whole wheat flour
