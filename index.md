@@ -516,7 +516,7 @@ enable it to blend.
 - 120g frozen spinach
 - 800g gnocchi
 - 300g grated mozzarella cheese
-  
+
 Preheat oven to 400 F.  Heat olive oil in large skillet, then add garlic and onions.
 Cook for 5 minutes.  Add tomato puree, honey, and frozen spinach.  After the spinach
 is thawed
