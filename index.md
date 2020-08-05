@@ -506,6 +506,24 @@ Cut up the cauliflower and boil with garlic for 10 minutes. Scoop out a mug of
 cooking water for later. Put ingredients into blender. Use water from mug to
 enable it to blend.
 
+## Baked gnocchi with spinach and mozzarella
+
+- 1 T olive oil
+- 3 cloves garlic
+- 1 large onion, chopped
+- 800 g tomato puree
+- 1 T honey
+- 120g frozen spinach
+- 800g gnocchi
+- 300g grated mozzarella cheese
+  
+Preheat oven to 400 F.  Heat olive oil in large skillet, then add garlic and onions.
+Cook for 5 minutes.  Add tomato puree, honey, and frozen spinach.  After the spinach
+is thawed
+add the gnocchi and cook for another 5 minutes.  Cover with cheese and pop in the oven
+for 15 minutes.
+
+
 ## Equal ingredients
 
 - 2 cups whole wheat flour
