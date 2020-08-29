@@ -476,6 +476,9 @@ Cook for ten minutes until the pastor is ready.
 Turn off the heat and stir in the parmesan cheese
 until melted.
 
+**Next time experiment with adding the peas right at the
+end, just *after* the pasta is ready.**
+
 ## Breaded fish
 
 - 1/2 cup panko breadcrumbs
@@ -512,19 +515,28 @@ enable it to blend.
 - 3 cloves garlic
 - 1 large onion, chopped
 - 800 g tomato puree
+- 1 T basil
+- 1 T oregano
 - 1 T honey
 - 120g frozen spinach
 - 800g gnocchi
-- 300g grated mozzarella cheese
+- 200g grated mozzarella cheese
 
 Preheat oven to 400 F.  Heat olive oil in large skillet, then add garlic and onions.
-Cook for 5 minutes.  Add tomato puree, honey, and frozen spinach.  After the spinach
+Cook for 5 minutes.  Add tomato puree, honey, and frozen spinach.  Also add basil and oregano.After the spinach
 is thawed
 add the gnocchi and cook for another 5 minutes.  Cover with cheese and pop in the oven
 for 15 minutes.
 
+**Experiment with using penne pasta instead of gnocchi.**  *How long does it need to cook
+before we pop it in the oven?*  Note that I have already decreased the mozzarella cheese.
 
-## Equal ingredients
+## Baked salmon
+
+Bake salmon for 9 minutes at 425 F, and then broil for 2 minutes to brown.
+
+
+<!-- ## Equal ingredients
 
 - 2 cups whole wheat flour
 - 1/4 cup oil
@@ -565,4 +577,4 @@ then the egg mixture.  Bake for about 45 minutes.
 
 ### biscuits?
 
-### pancakes?
+### pancakes? -->
