@@ -578,3 +578,11 @@ then the egg mixture.  Bake for about 45 minutes.
 ### biscuits?
 
 ### pancakes? -->
+
+## Cold foamy milk
+
+- 3 ice cubes
+- 1/2 tsp vanilla
+- 1 1/2 cups milk
+
+Pulse in blender to break up ice, then blend thoroughly.
