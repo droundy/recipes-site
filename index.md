@@ -586,3 +586,12 @@ then the egg mixture.  Bake for about 45 minutes.
 - 1 1/2 cups milk
 
 Pulse in blender to break up ice, then blend thoroughly.
+
+## 40-minute brown rice
+
+- 1 cup of brown rice
+- 6 cups of water
+
+Bring the water to a boil.  Rinse the rice.  Add rice to boiling water, and
+maintain a steady boil, uncovered, for 30 minutes.  Drain off the cooking water
+and return the rice to the pot.  Let rest 10 minutes.  Fluff and serve.
