@@ -83,9 +83,9 @@ Substituting shrimp...
 
 - 1 large can of tuna
 
-- 8 ounces of noodles
+- 8-12 ounces of noodles
 
-- 1 1/2 cups sour cream
+- 1 cup yogurt (or 1 1/2 cups sour cream)
 
 - 3/4 cup milk
 
@@ -95,11 +95,17 @@ Substituting shrimp...
 
 - 1/4 t. pepper
 
-- 4 T melted butter
+Croutons:
+
+- 4 T olive oil (or melted butter)
 
 - 1/2 cup parmesan cheese
 
 - 2 slices cubed toast
+
+Preheat oven to 350 and boil pasta.  Mix wet ingredients.
+Sprinkle croutons on top. Bake for 30-45 minutes, until
+croutons are toasted and crunchy.
 
 ## Pizza
 
