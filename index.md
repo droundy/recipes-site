@@ -107,6 +107,21 @@ Preheat oven to 350 and boil pasta.  Mix wet ingredients.
 Sprinkle croutons on top. Bake for 30-45 minutes, until
 croutons are toasted and crunchy.
 
+## Strata
+
+- 7 cups of diced/torn bread
+- 2 cups of grated cheese
+- 3 eggs
+- 3.5 cups of milk
+- 3.5 cups of microwaved frozen vegetables (optional, but good)
+- grated parmesan cheese sprinkled on top
+
+Sometimes the bread seems extra "thirsty", in which case add a bit more milk.
+
+Mix spices into the milk and mix the cheese and any veggies (peas, spinach) into
+the diced bread.   Bake covered for 20 minutes at 350.  Then uncover and bake
+15-30 minutes more until set.
+
 ## Pizza
 
 ## Vegetable chowder
