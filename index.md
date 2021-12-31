@@ -616,3 +616,17 @@ Pulse in blender to break up ice, then blend thoroughly.
 Bring the water to a boil.  Rinse the rice.  Add rice to boiling water, and
 maintain a steady boil, uncovered, for 30 minutes.  Drain off the cooking water
 and return the rice to the pot.  Let rest 10 minutes.  Fluff and serve.
+
+## Alfredo sauce
+
+- 1/4 cup butter
+- 1/4 cup whole wheat flour
+- 1 clove garlic, minced (optional)
+- 2 cups milk
+- 2 cups grated Parmesan cheese
+- 1/4 tsp salt
+- 1/8 tsp pepper
+
+Over low heat cook butter, flour and garlic for 3 minutes whisking continuously.
+Slowly add the milk.  Heat to a gentle simmer.  Add the Parmesan gradually, and
+then the salt and pepper (optional).
