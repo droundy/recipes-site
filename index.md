@@ -630,3 +630,33 @@ and return the rice to the pot.  Let rest 10 minutes.  Fluff and serve.
 Over low heat cook butter, flour and garlic for 3 minutes whisking continuously.
 Slowly add the milk.  Heat to a gentle simmer.  Add the Parmesan gradually, and
 then the salt and pepper (optional).
+
+## Thai peanut noodles
+
+### Peanut sauce
+
+- 1/4 cup fish sauce
+- 1/4 cup seasoned rice vinegar
+- 1/4 cup peanut butter
+- 3/4 cup lime juice (about 6 limes)
+- zest of one lime
+- 1 clove garlic, quartered
+- 2 T soy sauce
+- 3 T fresh ginger root, peeled into shavings
+1/4 tsp cayenne pepper or to taste
+
+Blend it all together.  Will be excessively salty on its own, but can be adjusted.  (How?)
+
+### Salad
+
+- 6 servings of rice noodles or other pasta, about 1/2 lb.
+- 1-3 tsp sesame oil or olive oil
+- 1 lb chicken, dinced and then cooked in a covered casserole for 35 minutes at 350 F.
+- 2 large carrots, grated (optional)
+- 1 large cucumber, diced
+- 1 handful spicy basil, or mint, parsley , or cilantro.  Or just some finely sliced romaine.
+- Other veggies or greens as moved.
+
+Additional tasty topping possibilities: chopped roasted salted peanuts, sriracha sauce, sambal oelek, lime wedges, roasted shredded coconut.
+
+Cook the noodles and stir with the oil.  Then mix all ingredients (except for the fresh herbs, grated carrots and toppings) with about 2/3 of the sauce.  Add the herbs and carrots to the top and serve at any temperature, with other toppings on the side.
