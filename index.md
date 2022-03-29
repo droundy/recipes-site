@@ -649,7 +649,7 @@ Blend it all together.  Will be excessively salty on its own, but can be adjuste
 
 ### Salad
 
-- 6 servings of rice noodles or other pasta, about 1/2 lb.
+- 1 lb of whole wheat noodles (or rice noodles)
 - 1-3 tsp sesame oil or olive oil
 - 1 lb chicken, dinced and then cooked in a covered casserole for 35 minutes at 350 F.
 - 2 large carrots, grated (optional)
