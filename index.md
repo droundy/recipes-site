@@ -338,6 +338,53 @@ as marinade for meat, and as a sauce on meat (uncooked).
 First get out the blueberries so they can start thawing.  Mix dry
 ingredients, mix wet ingredients and add to dry.  Make pancakes.
 
+## Whole wheat pancakes
+
+- 2 cups whole wheat flour
+
+- 4 1/2 tsp baking powder
+
+- 1/2 tsp salt
+
+- 2 tsp cinnamon
+
+- 2 tsp sugar
+
+- 2 eggs
+
+- 2 cups + 2 tablespoons milk
+
+- 2 tsp vanilla extract
+
+Mix the dry ingredients, and then use spoon to mix wet ingredients until it is wet but still lumpy.  Make
+pancakes at temperature 3 on our stove, a heaping 
+1/4 cup of batter
+at a time.
+
+## Eggless pancakes
+
+- 1 cup white flour
+
+- 1 tsp sugar
+
+- 1/4 tsp cinnamon
+
+- 2 tsp baking powder
+
+- 1/4 tsp salt
+
+- 1 tablespoon flax meal
+
+- 1 tablespoon vegetable oil
+
+- 1 tablespoon water
+
+- tsp vanilla
+
+Heat stove at 3.  Mix the dry ingredients then spoon
+stir liquids until it is wet but lumpy.  Add butter to
+pan and make pancakes a heaping 1/4 cup at a time.
+
 ## Crackers
 
 - 3 cups flour
