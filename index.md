@@ -375,6 +375,8 @@ at a time.
 
 - 1 tablespoon flax meal
 
+- 1 cup milk
+
 - 1 tablespoon vegetable oil
 
 - 1 tablespoon water
